@@ -1,5 +1,5 @@
 {
-    "name": "@henryhyn/markdown-it-katex",
+    "name": "markdown-it-katex-vitepress",
     "version": "4.0.2",
     "description": "Fast math support for markdown-it with KaTeX",
     "main": "index.js",
